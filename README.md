@@ -12,5 +12,4 @@ git commit -msg:Commit to repository
 git def:Difference b/w local repository and global repository
 git logs:
 
-Cheat sheet of GIT stickk...
-ashkh
+Cheat sheet of GIT stick
