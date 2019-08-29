@@ -6,7 +6,7 @@ Download Git bash
 git init:Initiatite the repository
 git status:Current status of your repository
 git add:Compulsory for first commit
-
+git gui
 git commit -msg:Commit to repository
 
 git def:Difference b/w local repository and global repository
