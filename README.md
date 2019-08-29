@@ -13,3 +13,6 @@ git def:Difference b/w local repository and global repository
 git logs:
 
 Cheat sheet of GIT stick
+
+
+https://git-scm.com/book/en/v2/Git-Branching-Rebasing
