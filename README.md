@@ -13,4 +13,4 @@ git def:Difference b/w local repository and global repository
 git logs:
 
 Cheat sheet of GIT stickk...
-as
+ashkh
